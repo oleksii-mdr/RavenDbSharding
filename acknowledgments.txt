@@ -1,0 +1,8 @@
+The project is making use of the following OSS projects:
+
+* RavenDB (http://ravendb.net) under the AGPLv3 license: 
+http://www.gnu.org/licenses/agpl.txt
+* NBuilder (https://code.google.com/p/nbuilder/) under the GNU Lesser General Public License
+http://www.gnu.org/licenses/lgpl.html
+* Newtonsoft.Json from James Newton-King (http://json.codeplex.com/) and is used under the MIT license: http://json.codeplex.com/license
+* NLog (http://nlog-project.org/) under the BSD license: http://www.opensource.org/licenses/bsd-license.php
