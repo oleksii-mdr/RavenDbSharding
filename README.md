@@ -24,3 +24,5 @@ To see it working you can
       Users with id 1 - 10 are stored in shard "user_1_10"
       Users with id 11 - 20 are stored in shard "user_10_20"
       Users with id 21 - 30 are stored in shard "user_20_30"
+
+For more details see my post: http://blog4work.com/post/2012/04/20/Sharding-with-RavenDB.aspx
